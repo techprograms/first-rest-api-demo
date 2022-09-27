@@ -12,4 +12,5 @@ public class HelloWorldResource {
 	public String helloWorld() {
 		return "Hello World";
 	}
+	//create second resource
 }
