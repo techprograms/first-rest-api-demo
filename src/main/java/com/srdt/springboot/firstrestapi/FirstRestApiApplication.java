@@ -9,6 +9,4 @@ public class FirstRestApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FirstRestApiApplication.class, args);
 	}
-	//creating rest resource
-	//don't add
 }
